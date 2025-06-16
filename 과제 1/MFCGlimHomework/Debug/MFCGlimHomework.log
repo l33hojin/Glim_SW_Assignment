@@ -1,0 +1,11 @@
+﻿  MFCGlimHomeworkDlg.cpp
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(201): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(252): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(291): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(314): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(337): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(391): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(422): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\amyte\documents\visual studio 2015\projects\mfcglimhomework\mfcglimhomework\mfcglimhomeworkdlg.cpp(440): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MFCGlimHomework.vcxproj -> C:\Users\amyte\documents\visual studio 2015\Projects\MFCGlimHomework\Debug\MFCGlimHomework.exe
+  MFCGlimHomework.vcxproj -> C:\Users\amyte\documents\visual studio 2015\Projects\MFCGlimHomework\Debug\MFCGlimHomework.pdb (Partial PDB)
